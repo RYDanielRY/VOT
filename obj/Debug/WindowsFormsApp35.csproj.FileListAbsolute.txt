@@ -1,0 +1,16 @@
+C:\Users\Daniil\source\repos\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe.config
+C:\Users\Daniil\source\repos\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe
+C:\Users\Daniil\source\repos\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.pdb
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.AssemblyReference.cache
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.JuryForm.resources
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.MembersForm.resources
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.ModeratoryForm.resources
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Properties.Resources.resources
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.GenerateResource.cache
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.exe
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.pdb
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.CAPA_PRESENTACION.GroupsForms.resources
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.CAPA_PRESENTACION.GroupsWatchForm.resources
+C:\Users\Daniil\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.AuthorisationForm.resources
